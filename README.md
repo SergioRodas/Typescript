@@ -1,0 +1,1 @@
+Command: tsc -w
